@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gen_AI_Celebal
 =======
 # Loan Application Q&A Chatbot
@@ -136,4 +135,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
->>>>>>> 2fc91fe (Gen AI complete project)
